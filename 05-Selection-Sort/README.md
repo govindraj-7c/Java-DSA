@@ -8,3 +8,5 @@ Here are some real-world examples of where selection sort might be used:
     Sorting a deck of cards in ascending or descending order.
 
 Selection sort is not the most efficient sorting algorithm, but it is simple to understand and implement. It may be a good choice for sorting small lists or for cases where efficiency is not a major concern.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/6f434bb0-edad-4167-b720-ae1071115116)
