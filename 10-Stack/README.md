@@ -13,3 +13,5 @@ In a linked list implementation, the stack is represented as a linked list of el
     - IsFull: Check if the stack is full.
 
 Stacks are a powerful data structure that can be used to implement a variety of algorithms. They are often used in compilers, operating systems, and other software applications.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/4c7c7d1c-1416-46bb-9f10-8f9f61a2f688)
