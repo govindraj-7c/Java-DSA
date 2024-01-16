@@ -5,10 +5,10 @@ Stacks can be implemented using an array or a linked list. In an array implement
 In a linked list implementation, the stack is represented as a linked list of elements. The top of the stack is stored in a pointer to the first element in the linked list. To push an element onto the stack, the element is added to the beginning of the linked list. To pop an element from the stack, the element at the beginning of the linked list is removed.
 
 **Here are some common operations performed on stacks:**
-    *Push: Add an element to the top of the stack.
-    *Pop: Remove the element at the top of the stack.
-    *Peek: Return the element at the top of the stack without removing it.
-    *IsEmpty: Check if the stack is empty.
-    *IsFull: Check if the stack is full.
+    - Push: Add an element to the top of the stack.
+    - Pop: Remove the element at the top of the stack.
+    - Peek: Return the element at the top of the stack without removing it.
+    - IsEmpty: Check if the stack is empty.
+    - IsFull: Check if the stack is full.
 
 Stacks are a powerful data structure that can be used to implement a variety of algorithms. They are often used in compilers, operating systems, and other software applications.
