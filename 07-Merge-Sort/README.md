@@ -7,3 +7,5 @@ Merge sort is a stable sorting algorithm. This means that it preserves the relat
 Merge sort has a time complexity of O(n log n), which means that the time it takes to sort a list grows logarithmically with the size of the list. This makes merge sort a very efficient sorting algorithm for large lists.
 
 Merge sort is a very efficient sorting algorithm and is often used in real-world applications. For example, it is used to sort data in databases, spreadsheets, and web pages.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/1b0f5211-e3b7-4b76-88a5-eb9efe71546c)
