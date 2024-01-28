@@ -2,7 +2,7 @@ A queue is a data structure that follows the FIFO (first-in-first-out) principle
 
 **There are several different types of queues, including:**
 
-      1 Simple queues:
+    *Simple queues:
     These queues are the most basic type of queue and only allow elements to be added to and removed from the back of the queue.
     *Circular queues:
     These queues are similar to simple queues, but they allow elements to be added to and removed from the front of the queue as well. This can be useful in situations where it is important to be able to access the oldest element in the queue quickly.
