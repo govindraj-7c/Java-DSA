@@ -20,4 +20,4 @@ Linked lists can be used to implement a variety of data structures, such as stac
     2. Linked lists can use more memory than arrays.
     3. Linked lists can be more complex to implement than arrays.
 
-    ![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/d6703eb0-11ef-4400-bd28-4335b7743f59)
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/d6703eb0-11ef-4400-bd28-4335b7743f59)
