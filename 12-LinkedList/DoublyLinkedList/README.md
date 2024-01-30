@@ -17,3 +17,5 @@ The two node links allow traversal of the list in either direction. While adding
     - Memory usage: Doubly linked lists use slightly more memory than singly linked lists.
 
 Overall, doubly linked lists are a versatile data structure that can be used for a variety of applications. They are more complex to implement than singly linked lists, but they offer some advantages, such as the ability to traverse the list in either direction and the ability to insert and delete nodes more easily.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/38e85428-5b61-47f0-8e10-ebb26cfe5a4d)
