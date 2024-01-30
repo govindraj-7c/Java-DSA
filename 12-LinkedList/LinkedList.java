@@ -16,10 +16,10 @@ public class LinkedList {
             return;
         }
         Node currNode = head;
-        while(currNode != null){
+        while(currNode.next != null){
             currNode = currNode.next;
         }
-        currNode = newNode;
+        currNode.next = newNode;
     }
     public void insertAtStart(int data){
         Node newNode = new Node(data);
@@ -61,6 +61,13 @@ public class LinkedList {
         }
         head = head.next;
     }
+    public void deleteAtMiddle(int key){
+        Node prevNode = head;
+        while(prevNode.next.data != key){
+            prevNode = prevNode.next;
+        }
+        prevNode.next = prevNode.next.next;
+    }
     public void display(){
         if(head == null){
             System.out.println("Linked List is Empty!!");
@@ -83,7 +90,8 @@ public class LinkedList {
             System.out.println("3.InsertAtMiddle");
             System.out.println("4.DeleteAtEnd");
             System.out.println("5.DeleteAtStart");
-            System.out.println("6.Display");
+            System.out.println("6.DeleteAtMiddle");
+            System.out.println("7.Display");
             System.out.println("0.Exit");
             System.out.println("Enter Your Choice:");
             int choice = sc.nextInt();
@@ -111,6 +119,11 @@ public class LinkedList {
                     ll.deleteAtStart();
                     break;
                 case 6:
+                    System.out.println("Enter Key Value:");
+                    int key1 = sc.nextInt();
+                    ll.deleteAtMiddle(key1);
+                    break;
+                case 7:
                     ll.display();
                     break;
                 case 0:
