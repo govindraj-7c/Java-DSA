@@ -1,6 +1,6 @@
 Bit manipulation is a technique that involves manipulating individual bits in a binary representation. In Java, this can be done using bitwise operators. Bitwise operators are operators that operate on individual bits of their operands.
 
-*Bit manipulation can be used for a variety of tasks, such as:*
+**Bit manipulation can be used for a variety of tasks, such as:**
 
     1. Checking the value of a specific bit
     2. Setting the value of a specific bit
