@@ -7,3 +7,5 @@ A HashSet is a collection of items where every item is unique, and it is found i
     -HashSet is unsorted.
     -HashSet is unordered.
     -HashSet is efficient for adding, removing, and searching for elements.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/cd28fc03-ce18-43f8-a775-052c7d677672)
