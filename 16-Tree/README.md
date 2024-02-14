@@ -2,23 +2,23 @@ A tree is a hierarchical data structure that consists of nodes and edges. Each n
 
 **Here are some of the key properties of a tree data structure:**
 
-    1. A tree is a hierarchical data structure, which means that the nodes are organized in a parent-child relationship.
-    2. Each node in the tree can have one or more child nodes, but only one parent node.
-    3. The topmost node of the tree is called the root node, and it has no parent node.
-    4. The nodes at the bottom of the tree are called leaf nodes, and they have no child nodes.
-    5. A tree can be empty, or it can have one or more nodes.
+1. A tree is a hierarchical data structure, which means that the nodes are organized in a parent-child relationship.
+2. Each node in the tree can have one or more child nodes, but only one parent node.
+3. The topmost node of the tree is called the root node, and it has no parent node.
+4. The nodes at the bottom of the tree are called leaf nodes, and they have no child nodes.
+5. A tree can be empty, or it can have one or more nodes.
 
 **Tree data structures are used in a variety of applications, including:**
 
-    1. File systems: Tree data structures are used to organize files and folders in a hierarchical manner.
-    2. Databases: Tree data structures are used to store and retrieve data in a hierarchical manner.
-    3. Networking: Tree data structures are used to route packets between different networks.
-    4. Artificial intelligence: Tree data structures are used to represent knowledge and make decisions.
+1. File systems: Tree data structures are used to organize files and folders in a hierarchical manner.
+2. Databases: Tree data structures are used to store and retrieve data in a hierarchical manner.
+3. Networking: Tree data structures are used to route packets between different networks.
+4. Artificial intelligence: Tree data structures are used to represent knowledge and make decisions.
 
 **Here are some examples of tree data structures:**
 
-1. Binary tree: A binary tree is a tree in which each node can have at most two child nodes.
-2. Binary search tree: A binary search tree is a binary tree in which the values of the nodes are sorted in ascending order.
-3. AVL tree: An AVL tree is a self-balancing binary search tree.
-4. Red-black tree: A red-black tree is another type of self-balancing binary search tree.
-5. B-tree: A B-tree is a tree that can have more than two child nodes per node. B-trees are often used in databases to store and retrieve large amounts of data.
+  1. Binary tree: A binary tree is a tree in which each node can have at most two child nodes.
+  2. Binary search tree: A binary search tree is a binary tree in which the values of the nodes are sorted in ascending order.
+  3. AVL tree: An AVL tree is a self-balancing binary search tree.
+  4. Red-black tree: A red-black tree is another type of self-balancing binary search tree.
+  5. B-tree: A B-tree is a tree that can have more than two child nodes per node. B-trees are often used in databases to store and retrieve large amounts of data.
