@@ -24,3 +24,6 @@ A tree is a hierarchical data structure that consists of nodes and edges. Each n
   5. B-tree: A B-tree is a tree that can have more than two child nodes per node. B-trees are often used in databases to store and retrieve large amounts of data.
 
 #**Binary Tree :**
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/9a196d35-e4a6-4ad3-b7cb-a8833d379da4)
+
