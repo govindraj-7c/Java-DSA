@@ -23,4 +23,4 @@ A tree is a hierarchical data structure that consists of nodes and edges. Each n
   4. Red-black tree: A red-black tree is another type of self-balancing binary search tree.
   5. B-tree: A B-tree is a tree that can have more than two child nodes per node. B-trees are often used in databases to store and retrieve large amounts of data.
 
-#Binary Tree :
+##Binary Tree :
