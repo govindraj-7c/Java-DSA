@@ -27,3 +27,9 @@ A tree is a hierarchical data structure that consists of nodes and edges. Each n
 
 ![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/9a196d35-e4a6-4ad3-b7cb-a8833d379da4)
 
+
+#**Binary Search Tree :**
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/e592c940-2735-445e-8386-89526c0cbc61)
+
+
