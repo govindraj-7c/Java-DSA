@@ -7,3 +7,5 @@ Heap sort is a sorting algorithm that builds a binary heap data structure from t
     3. Continue steps 2 and 3 until the heap is empty.
 
 Heap sort is a relatively efficient sorting algorithm, but it is not the most efficient sorting algorithm in all cases. Quicksort is generally considered to be the most efficient sorting algorithm, but it can have a worst-case time complexity of O(n^2). Heap sort is a good choice for sorting large arrays where the worst-case time complexity is a concern.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/5e5dc7d5-43c6-440a-afc5-68d82b696c9e)
