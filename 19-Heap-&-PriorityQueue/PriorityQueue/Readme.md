@@ -9,3 +9,5 @@ Priority queues are often implemented using heaps, but they can also be implemen
     - If two elements have the same priority, they are served in the order in which they were added to the queue.: This is called the first-in-first-out (FIFO) principle.
 
 Priority queues are a powerful data structure that can be used to solve a variety of problems. They are often used in operating systems, network routing, and event-driven programming.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/5474a421-abf0-4dd0-aba1-81a6ed79f04f)
