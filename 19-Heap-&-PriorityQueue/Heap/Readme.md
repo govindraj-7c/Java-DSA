@@ -13,3 +13,5 @@ A common implementation of a heap is the binary heap, in which the tree is a com
 
 Heaps are used in a variety of applications, including:
 Sorting algorithms, Priority queues, Graph algorithms, Network routing, and Memory management.
+
+![image](https://github.com/govindraj-7c/Java-DSA/assets/126868326/095da513-5c31-41af-b25c-b953d1a97b39)
