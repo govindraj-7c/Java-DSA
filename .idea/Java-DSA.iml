@@ -21,7 +21,8 @@
       <sourceFolder url="file://$MODULE_DIR$/16-Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/17-Trie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/18-Graph" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/19-Heap&amp;PriorityQueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-Heap-Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19-Heap-&amp;-PriorityQueue" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
